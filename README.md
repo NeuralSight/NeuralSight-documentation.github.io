@@ -1,5 +1,14 @@
 # Company Charter
 
+## Introduction
+Neural Labs Africa is an innovative medical technology company screening Medical Images for Radiologists & Hospitals in real-time to identify diseases such as Pneumonia and Tuberculosis. 
+
+## Vision  
+To positively impact healthcare by using AI, a revolutionary technology to democratize access to diagnostic healthcare.
+
+## Structure
+Neural Labs Africa is founded by two passionate Machine Learning Engineers towards solving Africa's most pressing challenges using technology.
+
 ## THE PROBLEM
 In Africa, healthcare services are overused yet under-resourced challenging healthcare
 providers with a significant burden to diseases. A patient’s wait time to receive analyzed lab
