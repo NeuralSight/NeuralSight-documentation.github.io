@@ -44,4 +44,8 @@ evolving the company's culture. The culture essentially combines agile administr
 independence, self-governance, routine evaluations, and participation monitoring.
 This strategy has influenced mentoring and growth in the future. The transparency of Neural
 Labs Africa is something we take great delight in. The company has shared the project repository
-on open source platforms for the open sourc
+on open source platforms for the open source.
+
+## Contribution Policy
+You are welcome to submit an update in the repo NeuralSight frontend if you do have any ideas that could enhance NeuralSight.
+If you have any code that enhances a component of NeuralSight or implements new features, please submit a pull request to the associated repository. If those portions of code are tested and documented, it is more than welcome.
